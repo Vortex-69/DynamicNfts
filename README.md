@@ -1,4 +1,5 @@
 Dynamic NFT Smart Contract
+
 This Solidity smart contract creates NFTs that change their attributes over time. The attributes are updated automatically based on the block timestamp.
 
 Features
